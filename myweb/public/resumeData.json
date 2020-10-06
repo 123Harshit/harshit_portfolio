@@ -89,16 +89,21 @@
             {
                 "title": "Amazon Clone",
                 "category": "Amazon Clone built with Firebase, Node JS, React JS",
-                "image": "whatsapp-mern.jpeg",
-                "url": ""
+                "image": "amazon_clone.png",
+                "url": "https://e-clone-29ada.web.app/"
+            },
+            {
+                "title": "Chat App",
+                "category": "Front End for a Chat App using React JS",
+                "image": "Chat_app.png",
+                "url": "https://heuristic-hamilton-bd2122.netlify.app/"
             }
         ]
     },
-    "testimonials": {
-        "testimonials": [
+    "motive": {
+        "motive": [
             {
-                "text": "",
-                "user": ""
+                "text": "I want to see myself as a successful Engineer helping the people around with my own idea."
             }
         ]
     }
