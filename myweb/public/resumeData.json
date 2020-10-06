@@ -1,0 +1,105 @@
+{
+    "main": {
+        "name": "Harshit Singhal",
+        "occupation": "ReactJS Developer && C++ Programmer",
+        "description": "Full Stack React Developer",
+        "image": "Harshit_Singhal.jpg",
+        "bio": "My name is Harshit, I'm a Full Stack ReactJS Developer. Currently I'm working at Pennyworth Consultancy as a Software Engineer Intern ",
+        "contactmessage": "Get in touch with me to receive further details or anything else.",
+        "email": "singhalharshit70@gmail.com",
+        "phone": "+918533888387",
+        "address": {
+            "street": "Holi Chowk",
+            "city": "Sisauli",
+            "state": "Uttar Pradesh, India",
+            "zip": "251319"
+        },
+        "website": "",
+        "resumedownload": "https://gitconnected.com/123harshit/resume",
+        "social": [
+            {
+                "name": "facebook",
+                "url": "https://www.facebook.com/harshit.singhal.7547/",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/harshit-singhal-56944a182/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/harshit7547/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "http://github.com/123Harshit",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+        "education": [
+            {
+                "school": "Jaypee Institute of Information Technology",
+                "degree": "Bachelor of Technology, CSE",
+                "graduated": "June 2021",
+                "description": ""
+            }
+        ],
+        "work": [
+            {
+                "company": "Pennyworth Consultancy",
+                "title": "Software Engineer Intern",
+                "years": "August 2020 - Present",
+                "description": "Developing Website and Content"
+            }
+        ],
+        "skills": [
+            {
+                "name": "ReactJs",
+                "level": "90%"
+            },
+            {
+                "name": "CSS",
+                "level": "80%"
+            },
+            {
+                "name": "Git",
+                "level": "60%"
+            },
+            {
+                "name": "C++",
+                "level": "90%"
+            },
+            {
+                "name": "HTML5",
+                "level": "80%"
+            },
+            {
+                "name": "SQL",
+                "level": "80%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "Amazon Clone",
+                "category": "Amazon Clone built with Firebase, Node JS, React JS",
+                "image": "whatsapp-mern.jpeg",
+                "url": ""
+            }
+        ]
+    },
+    "testimonials": {
+        "testimonials": [
+            {
+                "text": "",
+                "user": ""
+            }
+        ]
+    }
+}
