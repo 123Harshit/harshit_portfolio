@@ -63,6 +63,10 @@
                 "level": "90%"
             },
             {
+                "name": "Node JS",
+                "level": "70%"
+            },
+            {
                 "name": "CSS",
                 "level": "80%"
             },
@@ -87,10 +91,22 @@
     "portfolio": {
         "projects": [
             {
+                "title": "Divine Algo",
+                "category": "Live project. Here we provide courses of DS and Algo. Made using React JS and Node JS.",
+                "image": "DivineAlgo.png",
+                "url": "https://divinealgo.com/"
+            },
+            {
                 "title": "Amazon Clone",
                 "category": "Amazon Clone built with Firebase, Node JS, React JS",
                 "image": "amazon_clone.png",
                 "url": "https://e-clone-29ada.web.app/"
+            },
+            {
+                "title": "Covid-19 Stats",
+                "category": "Website showing stats of Corona Virus",
+                "image": "C19.png",
+                "url": "https://agitated-raman-1e4c6e.netlify.app/"
             },
             {
                 "title": "Chat App",
